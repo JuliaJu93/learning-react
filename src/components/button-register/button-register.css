@@ -1,0 +1,13 @@
+.register {
+    display: flex;
+    justify-content: center;
+    margin-right: 4rem;
+    width: 15%;
+    min-width: 120px;
+    height: 20%;
+    border-radius: 1vh;
+    color: #ebebeb; 
+    border: 2px solid #ebebeb;
+    font-size: 2.8vh;
+    text-decoration: none; 
+}
